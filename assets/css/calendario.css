@@ -1,0 +1,102 @@
+.ppp{
+	padding: 50px;
+}
+/**/
+.ff{
+background:rgb(0,0,0);
+ background: transparent\7; 
+ background:rgba(0,0,0,0.7);
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#66000000,endColorstr=#66000000); 
+  zoom: 1;
+margin-top: -80px; 
+bottom: -18px;
+/*margin-left: -70px;*/
+
+}
+
+.f1{
+	padding: 15px;
+	 font-size: 20px;
+	 font-weight: bold;
+	color:white;
+
+}
+
+.modal-body{
+	max-width: 500px; 
+}
+
+.img2{
+	max-width: 750px;
+}
+
+.modal5{
+	background: red;
+}
+
+.pagg{
+	background: #dedede !important;
+}
+.pag1{
+	font-weight: bold;
+	font-size: 28px;
+}
+.pag2{
+	font-weight: bold;
+	font-size: 28px;
+	color:red;
+}
+
+.pagecont{
+	color:#ACAAAA;
+	font-weight: bold;
+	font-size: 50px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.pagecont2{
+	color:#666565;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+
+.tbl1{
+	color: #CF0C1A;
+	font-weight: bold;
+
+	}
+
+.tbl1 th{
+	border: 1px solid transparent;
+	}
+
+.divv{
+		border: 2px solid #dedede;
+		padding: 35px 5px 35px 5px;
+		border-radius: 19%;
+		margin-top: -30px;
+	}
+.divv:hover {
+		background: #DCDADA;
+		color: #CF0C1A;
+		cursor: pointer;
+	}
+
+.divv a:active { color: orange; }
+	
+
+.divv a{
+		text-decoration: none;
+		color: #CF0C1A;
+	}
+
+.spa{
+		margin-bottom:  0px;
+		margin-right: -100px;
+		background: #636162;
+		color: white;
+		padding: 9px;
+		border-radius: 29px; 
+	}
